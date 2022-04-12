@@ -1,0 +1,27 @@
+form {
+  width: 40vw;
+  height: auto;
+  margin: 50px;
+  background-color: white;
+  padding: 10px;
+  padding-bottom: 15px;
+}
+
+.inputs {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 5px;
+
+}
+
+.buttons{
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  margin: 10px;
+}
+.textField {
+  width: 300px;
+} 
